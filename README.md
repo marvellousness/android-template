@@ -6,7 +6,7 @@ A simple template that lets you create an **Android/Kotlin** project and be up a
 Just click on **Clone** button to create a new repo starting from this template.
 
 Once created don't forget to update the:
-- [App ID](buildSrc/src/main/kotlin/AppConfig.kt)
+- [App ID](buildSrc/src/main/java/AppConfig.kt)
 - AndroidManifest ([here](app/src/main/AndroidManifest.xml) and [here](library-android/src/main/AndroidManifest.xml))
 - Package of the source files
 
